@@ -67,7 +67,7 @@ Built a vector database **from scratch in C++** with HNSW, KD-Tree, and Brute Fo
 
 ---
 
-#### 🔬 [ResearchMind — Multi-Agent AI Research System](https://github.com/viditsharma1405/Agentum)
+#### 🔬 [Agentum — Multi-Agent AI Research System](https://github.com/viditsharma1405/Agentum)
 > Python, LangChain, Groq, Tavily, Streamlit
 
 Four specialized AI agents (Search → Reader → Writer → Critic) collaborate to produce a polished research report on any topic. Built with LangChain agent framework, Groq LLM, and Tavily real-time search. Full Streamlit UI with downloadable markdown reports.
